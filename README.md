@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/rishu1016/LeetCode/tree/master/0975-range-sum-of-bst) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/rishu1016/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/rishu1016/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
