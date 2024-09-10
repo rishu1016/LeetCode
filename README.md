@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rishu1016/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rishu1016/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/rishu1016/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rishu1016/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0975-range-sum-of-bst](https://github.com/rishu1016/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rishu1016/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rishu1016/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/rishu1016/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Linked List
@@ -35,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0226-invert-binary-tree) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/rishu1016/LeetCode/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/rishu1016/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
