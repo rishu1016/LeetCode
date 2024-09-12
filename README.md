@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/rishu1016/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [2050-count-good-numbers](https://github.com/rishu1016/LeetCode/tree/master/2050-count-good-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rishu1016/LeetCode/tree/master/0257-binary-tree-paths) |
+## Math
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/rishu1016/LeetCode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
