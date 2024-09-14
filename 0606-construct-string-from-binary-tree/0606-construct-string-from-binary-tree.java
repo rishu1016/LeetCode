@@ -14,37 +14,35 @@
  * }
  */
 class Solution {
-    public void preOrder(TreeNode root, StringBuilder sb) {
-        if(root == null) {
-            return;
-        }
-
-        sb.append(root.val);
-
-        if(root.left == null && root.right == null) {
-            return;
-        }
-        if(root.left == null && root.right != null) {
-            sb.append("()(");
-            preOrder(root.right, sb);
-            sb.append(")");
-        } else if(root.right == null && root.left != null) {
-            sb.append("(");
-            preOrder(root.left, sb);
-            sb.append(")");
-        } else {
-            sb.append("(");
-            preOrder(root.left, sb);
-            sb.append(")");
-
-            sb.append("(");
-            preOrder(root.right, sb);
-            sb.append(")");
-        }
-    }
+    public StringBuilder resString = new StringBuilder("");
     public String tree2str(TreeNode root) {
-        StringBuilder sb = new StringBuilder("");
-        preOrder(root, sb);
-        return sb.toString();
+        if(root == null) return resString.toString();
+        resString.append(root.val);
+
+        if((root.left == null && root.right == null)) return resString.toString();  
+        traverseTree(root.left, 'l');
+        traverseTree(root.right, 'r');
+        
+        return resString.toString();
+    }
+
+    public void traverseTree(TreeNode root, char dir) {
+        if(root == null ){
+           
+            if(dir == 'l'){
+                resString.append("(" + ")");
+            }
+            return;
+        }
+
+
+         resString.append("(" + root.val);
+        if(!(root.left == null && root.right == null)){
+            traverseTree(root.left, 'l');
+            traverseTree(root.right, 'r');
+           
+        }
+         resString.append(")");
+
     }
 }
