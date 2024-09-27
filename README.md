@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rishu1016/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/rishu1016/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/rishu1016/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/rishu1016/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/rishu1016/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rishu1016/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/rishu1016/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/rishu1016/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/rishu1016/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/rishu1016/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishu1016/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/rishu1016/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/rishu1016/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rishu1016/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/rishu1016/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rishu1016/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/rishu1016/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/rishu1016/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/rishu1016/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/rishu1016/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/rishu1016/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/rishu1016/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/rishu1016/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rishu1016/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## String
 |  |
