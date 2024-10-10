@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/rishu1016/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rishu1016/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rishu1016/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/rishu1016/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rishu1016/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/rishu1016/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/rishu1016/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rishu1016/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rishu1016/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rishu1016/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/rishu1016/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/rishu1016/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rishu1016/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rishu1016/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/rishu1016/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rishu1016/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/rishu1016/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -142,4 +145,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rishu1016/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rishu1016/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rishu1016/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rishu1016/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
