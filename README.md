@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/rishu1016/LeetCode/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishu1016/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2756-buy-two-chocolates](https://github.com/rishu1016/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rishu1016/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Greedy
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/rishu1016/LeetCode/tree/master/2756-buy-two-chocolates) |
+## Sorting
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/rishu1016/LeetCode/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
