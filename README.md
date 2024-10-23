@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rishu1016/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rishu1016/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rishu1016/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/rishu1016/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0975-range-sum-of-bst](https://github.com/rishu1016/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishu1016/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishu1016/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0560-subarray-sum-equals-k](https://github.com/rishu1016/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/rishu1016/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/rishu1016/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2756-buy-two-chocolates](https://github.com/rishu1016/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
