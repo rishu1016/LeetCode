@@ -114,11 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rishu1016/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rishu1016/LeetCode/tree/master/0070-climbing-stairs) |
 | [2050-count-good-numbers](https://github.com/rishu1016/LeetCode/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rishu1016/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rishu1016/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishu1016/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishu1016/LeetCode/tree/master/0020-valid-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rishu1016/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
