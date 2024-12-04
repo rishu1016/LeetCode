@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/rishu1016/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0817-design-hashmap](https://github.com/rishu1016/LeetCode/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishu1016/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0560-subarray-sum-equals-k](https://github.com/rishu1016/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rishu1016/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0817-design-hashmap](https://github.com/rishu1016/LeetCode/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rishu1016/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/rishu1016/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2756-buy-two-chocolates](https://github.com/rishu1016/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -162,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rishu1016/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0817-design-hashmap](https://github.com/rishu1016/LeetCode/tree/master/0817-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rishu1016/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0817-design-hashmap](https://github.com/rishu1016/LeetCode/tree/master/0817-design-hashmap) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rishu1016/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/rishu1016/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0817-design-hashmap](https://github.com/rishu1016/LeetCode/tree/master/0817-design-hashmap) |
 ## Queue
 |  |
 | ------- |
