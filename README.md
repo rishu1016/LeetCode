@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rishu1016/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/rishu1016/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rishu1016/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishu1016/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishu1016/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rishu1016/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/rishu1016/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishu1016/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishu1016/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0560-subarray-sum-equals-k](https://github.com/rishu1016/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishu1016/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rishu1016/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/rishu1016/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0941-sort-array-by-parity](https://github.com/rishu1016/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishu1016/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rishu1016/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Combinatorics
 |  |
 | ------- |
@@ -225,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/rishu1016/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rishu1016/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
