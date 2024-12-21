@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/rishu1016/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rishu1016/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/rishu1016/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/rishu1016/LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/rishu1016/LeetCode/tree/master/2050-count-good-numbers) |
 ## Breadth-First Search
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rishu1016/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/rishu1016/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rishu1016/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/rishu1016/LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/rishu1016/LeetCode/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rishu1016/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/rishu1016/LeetCode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
