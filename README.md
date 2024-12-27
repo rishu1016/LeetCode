@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/rishu1016/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [2756-buy-two-chocolates](https://github.com/rishu1016/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rishu1016/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3639-zero-array-transformation-i](https://github.com/rishu1016/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rishu1016/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rishu1016/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [3639-zero-array-transformation-i](https://github.com/rishu1016/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Interactive
 |  |
 | ------- |
