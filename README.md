@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/rishu1016/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishu1016/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rishu1016/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rishu1016/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rishu1016/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/rishu1016/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rishu1016/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Memoization
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/rishu1016/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/rishu1016/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1063-best-sightseeing-pair](https://github.com/rishu1016/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rishu1016/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2756-buy-two-chocolates](https://github.com/rishu1016/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rishu1016/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3639-zero-array-transformation-i](https://github.com/rishu1016/LeetCode/tree/master/3639-zero-array-transformation-i) |
