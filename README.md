@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rishu1016/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rishu1016/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/rishu1016/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/rishu1016/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rishu1016/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rishu1016/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/rishu1016/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2756-buy-two-chocolates](https://github.com/rishu1016/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rishu1016/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3639-zero-array-transformation-i](https://github.com/rishu1016/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rishu1016/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rishu1016/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rishu1016/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/rishu1016/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3639-zero-array-transformation-i](https://github.com/rishu1016/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Interactive
 |  |
