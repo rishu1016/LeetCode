@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rishu1016/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rishu1016/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/rishu1016/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rishu1016/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Backtracking
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rishu1016/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/rishu1016/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/rishu1016/LeetCode/tree/master/0231-power-of-two) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/rishu1016/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Array
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rishu1016/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/rishu1016/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/rishu1016/LeetCode/tree/master/0817-design-hashmap) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/rishu1016/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Queue
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rishu1016/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rishu1016/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rishu1016/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/rishu1016/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/rishu1016/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rishu1016/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3639-zero-array-transformation-i](https://github.com/rishu1016/LeetCode/tree/master/3639-zero-array-transformation-i) |
