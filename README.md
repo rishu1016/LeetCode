@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/rishu1016/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/rishu1016/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1396-count-servers-that-communicate](https://github.com/rishu1016/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rishu1016/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/rishu1016/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/rishu1016/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rishu1016/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rishu1016/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1396-count-servers-that-communicate](https://github.com/rishu1016/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rishu1016/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1876-map-of-highest-peak](https://github.com/rishu1016/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/rishu1016/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/rishu1016/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/rishu1016/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rishu1016/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1396-count-servers-that-communicate](https://github.com/rishu1016/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/rishu1016/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rishu1016/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1876-map-of-highest-peak](https://github.com/rishu1016/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rishu1016/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1396-count-servers-that-communicate](https://github.com/rishu1016/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishu1016/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rishu1016/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
@@ -369,7 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/rishu1016/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/rishu1016/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/rishu1016/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/rishu1016/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rishu1016/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/rishu1016/LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
