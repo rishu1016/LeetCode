@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rishu1016/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rishu1016/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishu1016/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0397-integer-replacement](https://github.com/rishu1016/LeetCode/tree/master/0397-integer-replacement) |
 | [0494-target-sum](https://github.com/rishu1016/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rishu1016/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/rishu1016/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -182,12 +183,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rishu1016/LeetCode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/rishu1016/LeetCode/tree/master/0397-integer-replacement) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rishu1016/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/rishu1016/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/rishu1016/LeetCode/tree/master/0231-power-of-two) |
+| [0397-integer-replacement](https://github.com/rishu1016/LeetCode/tree/master/0397-integer-replacement) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rishu1016/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/rishu1016/LeetCode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rishu1016/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishu1016/LeetCode/tree/master/0011-container-with-most-water) |
+| [0397-integer-replacement](https://github.com/rishu1016/LeetCode/tree/master/0397-integer-replacement) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishu1016/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rishu1016/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/rishu1016/LeetCode/tree/master/2509-minimize-xor) |
