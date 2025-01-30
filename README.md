@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishu1016/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/rishu1016/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishu1016/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rishu1016/LeetCode/tree/master/0020-valid-parentheses) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishu1016/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishu1016/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/rishu1016/LeetCode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishu1016/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishu1016/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/rishu1016/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Monotonic Stack
 |  |
