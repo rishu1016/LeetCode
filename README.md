@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rishu1016/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rishu1016/LeetCode/tree/master/0162-find-peak-element) |
 | [0407-trapping-rain-water-ii](https://github.com/rishu1016/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishu1016/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/rishu1016/LeetCode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rishu1016/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rishu1016/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishu1016/LeetCode/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/rishu1016/LeetCode/tree/master/0397-integer-replacement) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishu1016/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishu1016/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rishu1016/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/rishu1016/LeetCode/tree/master/2509-minimize-xor) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishu1016/LeetCode/tree/master/0015-3sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishu1016/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0941-sort-array-by-parity](https://github.com/rishu1016/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2756-buy-two-chocolates](https://github.com/rishu1016/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
