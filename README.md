@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rishu1016/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rishu1016/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rishu1016/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rishu1016/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3639-zero-array-transformation-i](https://github.com/rishu1016/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
 |  |
