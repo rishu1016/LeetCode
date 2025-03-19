@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishu1016/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/rishu1016/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rishu1016/LeetCode/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/rishu1016/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/rishu1016/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rishu1016/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishu1016/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rishu1016/LeetCode/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/rishu1016/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rishu1016/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/rishu1016/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/rishu1016/LeetCode/tree/master/0066-plus-one) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu1016/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishu1016/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/rishu1016/LeetCode/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/rishu1016/LeetCode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishu1016/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/rishu1016/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rishu1016/LeetCode/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/rishu1016/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/rishu1016/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/rishu1016/LeetCode/tree/master/1396-count-servers-that-communicate) |
