@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/rishu1016/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rishu1016/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rishu1016/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/rishu1016/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/rishu1016/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rishu1016/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Tree
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/rishu1016/LeetCode/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/rishu1016/LeetCode/tree/master/0854-making-a-large-island) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rishu1016/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/rishu1016/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/rishu1016/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/rishu1016/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/rishu1016/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
