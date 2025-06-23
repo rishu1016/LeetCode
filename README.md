@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishu1016/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rishu1016/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishu1016/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/rishu1016/LeetCode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/rishu1016/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishu1016/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rishu1016/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishu1016/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/rishu1016/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/rishu1016/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/rishu1016/LeetCode/tree/master/0202-happy-number) |
 | [0941-sort-array-by-parity](https://github.com/rishu1016/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Divide and Conquer
