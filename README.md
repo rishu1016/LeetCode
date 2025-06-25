@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/rishu1016/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0680-valid-palindrome-ii](https://github.com/rishu1016/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0952-word-subsets](https://github.com/rishu1016/LeetCode/tree/master/0952-word-subsets) |
+| [0961-long-pressed-name](https://github.com/rishu1016/LeetCode/tree/master/0961-long-pressed-name) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rishu1016/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishu1016/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/rishu1016/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rishu1016/LeetCode/tree/master/0202-happy-number) |
 | [0680-valid-palindrome-ii](https://github.com/rishu1016/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/rishu1016/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0961-long-pressed-name](https://github.com/rishu1016/LeetCode/tree/master/0961-long-pressed-name) |
 ## Divide and Conquer
 |  |
 | ------- |
