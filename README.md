@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rishu1016/LeetCode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/rishu1016/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/rishu1016/LeetCode/tree/master/0278-first-bad-version) |
+| [0441-arranging-coins](https://github.com/rishu1016/LeetCode/tree/master/0441-arranging-coins) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rishu1016/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0713-subarray-product-less-than-k](https://github.com/rishu1016/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rishu1016/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rishu1016/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rishu1016/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rishu1016/LeetCode/tree/master/0231-power-of-two) |
+| [0441-arranging-coins](https://github.com/rishu1016/LeetCode/tree/master/0441-arranging-coins) |
 | [2050-count-good-numbers](https://github.com/rishu1016/LeetCode/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
